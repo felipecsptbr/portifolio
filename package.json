@@ -1,0 +1,11 @@
+{
+  "name": "filipe-portfolio",
+  "version": "1.0.0",
+  "description": "Filipe Cavalcante's Cybersecurity Portfolio",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
